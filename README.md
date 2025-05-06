@@ -70,8 +70,8 @@ Portfólio interativo desenvolvido com Angular e hospedado no GitHub Pages.
 ## 📊 Meu GitHub em números
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=devb4u3r&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devb4u3r&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="160"/>
 </p>
 
 ---
