@@ -76,7 +76,7 @@
 
 ---
 
-## 🌟 Projetos em destaque
+### 🌟 Projetos em destaque
 
 > Exemplos fictícios enquanto os projetos reais não chegam! 👷‍♂️
 
