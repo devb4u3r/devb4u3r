@@ -12,6 +12,7 @@
 <p align="center">
   <a href="mailto:fnbauer199@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/floriano-bauer/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=devb4u3r&style=for-the-badge" alt="Profile views" />
 </p>
 
 ---
@@ -29,53 +30,48 @@
 ## 🛠️ Tecnologias & Ferramentas
 
 ### 👨‍🔧 Linguagens
-
+  <p>
   <img width="40px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 
   <img width="40px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 
-  <img width="40px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-
-  <br>
+  <img width="40px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" /> </p> <br>
   
 ### 👨‍🔧 Backend
-
+  <p>
   <img width="40px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
 
-  <img width="40px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-
-  <br>
+  <img width="40px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" /> </p> <br>
 
 ### 🧰 Dev Tools
-
+  <p>
   <img width="40px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 
   <img width="40px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
 
   <img width="40px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" />
 
-  <img width="40px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" />
-  <br>
+  <img width="40px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" /> </p><br>
 
 ### 🖥️ Frontend
-
+  <p>
   <img width="40px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   
   <img width="40px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 
-  <img width="40px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" /> <br>
+  <img width="40px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" /> </p><br>
   
 ### 🗃️ Banco de Dados
+  <p>
   <img width="40px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"  />
   
   <img width="40px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
   
-  <img width="40px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
-  <br>
+  <img width="40px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" /> </p><br>
 
 ---
 
-### 🌟 Projetos em destaque
+## 🌟 Projetos em destaque
 
 > Exemplos fictícios enquanto os projetos reais não chegam! 👷‍♂️
 
