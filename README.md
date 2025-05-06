@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  Desenvolvedor Java ☕ | Entusiasta de tecnologia ⚙️ | Apaixonado por transformar ideias em código 💡<br>
+  Desenvolvedor Backend | Entusiasta de tecnologia | Apaixonado por transformar ideias em código <br>
 </p>
 
 <p align="center">
@@ -29,63 +29,7 @@
 
 ## 🛠️ Tecnologias & Ferramentas
 
-### 👨‍🔧 Linguagens
-  <p>
-  <img width="40px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-
-  <img width="40px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-
-  <img width="40px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" /> </p> <br>
-  
-### 👨‍🔧 Backend
-  <p>
-  <img width="40px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
-
-  <img width="40px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" /> </p> <br>
-
-### 🧰 Dev Tools
-  <p>
-  <img width="40px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-
-  <img width="40px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
-
-  <img width="40px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" />
-
-  <img width="40px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" /> </p><br>
-
-### 🖥️ Frontend
-  <p>
-  <img width="40px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-  
-  <img width="40px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-
-  <img width="40px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" /> </p><br>
-  
-### 🗃️ Banco de Dados
-  <p>
-  <img width="40px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"  />
-  
-  <img width="40px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-  
-  <img width="40px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" /> </p><br><br>
-
----
-
-## 🌟 Projetos em destaque
-
-> Exemplos fictícios enquanto os projetos reais não chegam! 👷‍♂️
-
-### 📝 `task-manager-api`
-Sistema de gerenciamento de tarefas com autenticação, filtros e painéis de produtividade.
-- **Stack:** Java + Spring Boot + PostgreSQL + Docker
-
-### 📱 `fintech-android-app`
-App de controle financeiro pessoal com interface intuitiva e gráficos mensais.
-- **Stack:** Android (Java), SQLite
-
-### 💼 `portfolio-angular`
-Portfólio interativo desenvolvido com Angular e hospedado no GitHub Pages.
-- **Stack:** Angular, TypeScript, HTML/CSS
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,python,js,ts,spring,nodejs,next,prisma,postman,git,docker,mysql,postgresql,mongodb&theme=light)](https://skillicons.dev)
 
 ---
 
