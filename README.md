@@ -67,7 +67,7 @@
   
   <img width="40px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
   
-  <img width="40px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" /> </p><br>
+  <img width="40px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" /> </p><br><br>
 
 ---
 
