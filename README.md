@@ -80,9 +80,3 @@ Portfólio interativo desenvolvido com Angular e hospedado no GitHub Pages.
 
 Se você está buscando alguém comprometido, curioso e que aprende rápido, bora trocar uma ideia!  
 Entre em contato pelo e-mail ou LinkedIn. Estou aberto a colaborações e oportunidades!
-
----
-
-<p align="center">
-  <i>“Primeiro faz funcionar. Depois, faz direito. Por fim, faz bonito.”</i> – Todo bom dev em algum momento
-</p>
