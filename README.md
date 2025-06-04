@@ -19,11 +19,8 @@
 
 ## 👨‍💼 Sobre mim
 
-- 💻 Desenvolvedor backend com foco em **Java + Spring Boot**
+- 💻 Desenvolvedor backend 
 - 🌱 Atualmente aprendendo mais sobre arquitetura de microsserviços, testes automatizados e boas práticas de CI/CD
-- 📱 Também possuo experiência em desenvolvimento Android com Java
-- 🌐 Gosto de brincar com **Angular + TypeScript** no frontend
-- 🎯 Busco oportunidades para crescer como desenvolvedor e entregar soluções reais com impacto!
 
 ---
 
