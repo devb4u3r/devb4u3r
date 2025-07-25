@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  Desenvolvedor Backend | Entusiasta de tecnologia | Apaixonado por transformar ideias em código <br>
+  Desenvolvedor Backend | Desenvolvedor de Jogos <br>
 </p>
 
 <p align="center">
@@ -20,7 +20,6 @@
 ## 👨‍💼 Sobre mim
 
 - 💻 Desenvolvedor backend 
-- 🌱 Atualmente aprendendo mais sobre arquitetura de microsserviços, testes automatizados e boas práticas de CI/CD
 
 ---
 
