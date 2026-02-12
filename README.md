@@ -1,4 +1,4 @@
-<h1 align="center">Floriano Bauer 👨‍💻</h1>
+<h1 align="center">Floriano Bauer</h1>
 
 
 <p align="center">
@@ -17,13 +17,12 @@
 
 ---
 
-## 👨‍💼 Sobre mim
+## Sobre mim
 
-- 💻 Desenvolvedor backend 
+- 💻 Desenvolvedor backend
+- 👾 Desenvolvedor de Jogos
 
 ---
-
-## 🛠️ Tecnologias & Ferramentas
 
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin,python,spring,nodejs,postman,git,docker,mysql,postgresql,gamemaker&theme=light)](https://skillicons.dev)
 
