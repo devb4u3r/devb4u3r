@@ -25,20 +25,5 @@
 
 ## 🛠️ Tecnologias & Ferramentas
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,python,spring,nodejs,postman,git,docker,mysql,postgresql&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,python,spring,nodejs,postman,git,docker,mysql,postgresql,gamemaker&theme=light)](https://skillicons.dev)
 
----
-
-## 📊 Meu GitHub em números
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devb4u3r&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devb4u3r&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="160"/>
-</p>
-
----
-
-## 💬 Vamos conversar!
-
-Se você está buscando alguém comprometido, curioso e que aprende rápido, bora trocar uma ideia!  
-Entre em contato pelo e-mail ou LinkedIn. Estou aberto a colaborações e oportunidades!
