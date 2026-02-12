@@ -1,13 +1,10 @@
 <h1 align="center">Floriano Bauer</h1>
 
 <p align="center">
-  <a href="mailto:fnbauer199@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/floriano-bauer/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/floriano-bauer/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
----
-
-# About
+## About
 
 Developer focused on backend systems, data tooling, and game development.
 
