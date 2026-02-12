@@ -13,12 +13,12 @@ Developer focused on backend systems, data tooling, and game development.
 
 ## Currently working with
 
-**Backend & Infrastructure**
+**Backend & Infrastructure**<br>
 [![My Skills](https://skillicons.dev/icons?i=java,maven,spring,hibernate,git,docker,postgresql&theme=light)](https://skillicons.dev)
 
-**Systems & Data**
+**Systems & Data**<br>
 [![My Skills](https://skillicons.dev/icons?i=python,opencv,sklearn,arduino,raspberrypi&theme=light)](https://skillicons.dev)
 
-**Game Development**
+**Game Development**<br>
 [![My Skills](https://skillicons.dev/icons?i=gamemakerstudio,unity,godot&theme=light)](https://skillicons.dev)
 
