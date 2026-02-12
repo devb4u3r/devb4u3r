@@ -2,7 +2,7 @@
 
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&pause=1000&color=F70909&center=true&vCenter=true&width=435&lines=Desenvolvedor+Backend+;Java+%7C+Javascript+%7C+Typescript+%7C+Python;Node+%7C+Next.js+%7C+Spring+Boot+;GIT+%7C+Github+%7C+Docker+%7C+Jira" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&pause=1000&color=F70909&center=true&vCenter=true&width=435&lines=Desenvolvedor+Backend+;Java+%7C+Python;Spring+Boot+;GIT+%7C+Github+%7C+Docker+%7C+Jira" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
@@ -25,7 +25,7 @@
 
 ## 🛠️ Tecnologias & Ferramentas
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,python,js,ts,spring,nodejs,next,prisma,postman,git,docker,mysql,postgresql,mongodb&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,python,spring,nodejs,postman,git,docker,mysql,postgresql&theme=light)](https://skillicons.dev)
 
 ---
 
